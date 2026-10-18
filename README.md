@@ -11,7 +11,7 @@
 ## طريقة التركيب
 
 **في تطبيق Claude (claude.ai):**
-1. نزّل مجلد `arabic-brand-carousel` كملف ZIP (زر **Code ← Download ZIP**، وبعدين اضغط مجلد `arabic-brand-carousel` لحاله).
+1. نزّل الملفات من زر **Code ← Download ZIP** وفك الضغط، وبعدين اضغط مجلد `arabic-brand-carousel` اللي بداخله لملف ZIP.
 2. روح **Settings ← Capabilities ← Skills** واضغط **Upload skill** وارفع الملف.
 
 **في Claude Code:**
